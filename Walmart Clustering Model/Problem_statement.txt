@@ -1,0 +1,6 @@
+Problem Satement :
+            "Walmart wants to open a chian pf stores across Florida and wants to find out optimal store locations to maximize revenue."
+            
+Solutions :
+    1. Walmart already has a strong e-commerce presence.
+    2. Walmart can use it's online customer data to analyze the customer locations along with the monthly sales.
